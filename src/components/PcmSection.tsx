@@ -1,5 +1,4 @@
-import React from 'react';
-import { UserCircle2, Brain, Fingerprint, Heart, MessageCircle, Sparkles } from 'lucide-react';
+import { Fingerprint, Heart, MessageCircle, Sparkles } from 'lucide-react';
 
 const PcmSection = () => {
     return (

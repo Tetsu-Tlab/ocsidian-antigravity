@@ -1,4 +1,3 @@
-import React from 'react';
 import { Book, FileText, Link, Box, Cpu, Sparkles } from 'lucide-react';
 
 const Glossary = () => {
@@ -52,7 +51,7 @@ const Glossary = () => {
                         <Cpu size={20} color="#f43f5e" /> Plugin（プラグイン）
                     </h3>
                     <p style={{ margin: 0, fontSize: '0.95rem', color: '#cbd5e1', lineHeight: '1.7' }}>
-                        Obsidainに新しい機能を追加する「拡張パーツ」のこと。<br />
+                        Obsidianに新しい機能を追加する「拡張パーツ」のこと。<br />
                         カレンダーを表示したり、音声を自動で文字起こししたり。自分の使いやすいようにカスタマイズして、世界に一つだけの相棒に育てていけるよ！
                     </p>
                 </div>
